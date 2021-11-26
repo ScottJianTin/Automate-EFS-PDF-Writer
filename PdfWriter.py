@@ -169,6 +169,3 @@ class FillablePdfWriter:
                                         final_value_dict)
             # (optional) flatten the pdf file to make it uneditable
             # fillpdfs.flatten_pdf('new.pdf', 'newflat.pdf', as_image=False)
-
-if __name__ == '__main__':
-    print_hi('PyCharm')
